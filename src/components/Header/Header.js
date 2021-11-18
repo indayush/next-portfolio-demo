@@ -40,13 +40,13 @@ const Header = () => (
 			</li>
 		</Div2>
 		<Div3>
-			<SocialIcons href={SocialHandles[0].link}>
+			<SocialIcons href={SocialHandles[0].link} target="_blank">
 				<AiFillGithub size="3rem" />
 			</SocialIcons>
-			<SocialIcons href={SocialHandles[1].link}>
+			<SocialIcons href={SocialHandles[1].link} target="_blank">
 				<AiFillLinkedin size="3rem" />
 			</SocialIcons>
-			<SocialIcons href={SocialHandles[2].link}>
+			<SocialIcons href={SocialHandles[2].link} target="_blank">
 				<AiFillInstagram size="3rem" />
 			</SocialIcons>
 		</Div3>
