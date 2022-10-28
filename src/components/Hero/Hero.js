@@ -14,12 +14,12 @@ const Hero = () => (
 			<SectionText>
 				Experienced Automation Engineer.
 				<br />
-				Fascinated with DevOps & AWS certified Solution Architect.
+				Certified AWS Solution Architect Professional.
 				<br />
-				Currently tinkering with React & Python to build quality products
+				Fascinated with DevOps & Currently tinkering with different technologies to produce quality products
 				and solutions.
 			</SectionText>
-			<Button onClick={() => (window.location = "https://google.com")}>
+			<Button onClick={() => (window.location = "https://github.com/indayush")}>
 				Learn More
 			</Button>
 		</LeftSection>
