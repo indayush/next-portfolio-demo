@@ -14,7 +14,7 @@ const Hero = () => (
 			<SectionText>
 				Experienced Automation Engineer.
 				<br />
-				Certified AWS Solution Architect Professional.
+				Certified AWS Solution Architect Associate.
 				<br />
 				Fascinated with DevOps & Currently tinkering with different technologies to produce quality products
 				and solutions.
