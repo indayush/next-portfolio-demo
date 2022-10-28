@@ -29,7 +29,7 @@ const Technologies = () => (
 
 		<SectionTitle>Technologies</SectionTitle>
 		<SectionText>
-			I have worked on numerous Technologies in the Automation & Development
+			I have worked on numerous Technologies in the DevOps, Test Automation & Development
 			domains
 		</SectionText>
 		<List>
