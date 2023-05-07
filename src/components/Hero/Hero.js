@@ -12,12 +12,9 @@ const Hero = () => (
 				My Personal Portfolio
 			</SectionTitle>
 			<SectionText>
-				Experienced Automation Engineer.
+				DevOps engineer with expertise in AWS, specializing in cost-effective solutions that optimize performance and efficiency.
 				<br />
-				Certified AWS Solution Architect Associate.
-				<br />
-				Fascinated with DevOps & Currently tinkering with different technologies to produce quality products
-				and solutions.
+				AWS Solution Architect Associate certified with a track record of delivering innovative solutions.
 			</SectionText>
 			<Button onClick={() => (window.location = "https://github.com/indayush")}>
 				Learn More
